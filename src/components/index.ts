@@ -1,1 +1,1 @@
-export { YandexMetrikaProps, YandexMetrikaWrapper } from './Metrika';
+export * from './Metrika';

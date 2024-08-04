@@ -1,9 +1,4 @@
-export { YandexMetrikaProps, YandexMetrikaWrapper } from './components';
-export {
-	type ClickEvent,
-	useDebounce,
-	useDebounceCallback,
-	useOnClickOutside,
-	useScrollTrigger,
-	UseScrollTriggerProps,
-} from './hooks';
+export * from './components';
+export * from './helpers';
+export * from './hooks';
+export * from './lib';
